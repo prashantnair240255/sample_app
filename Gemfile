@@ -22,6 +22,9 @@ gem 'closure-compiler'
 gem 'taps'
 
 group :development do
+	gem 'autotest'
+	gem 'autotest-rails-pure'
+	gem 'autotest-growl'
 	gem 'rspec-rails'
 end
 
