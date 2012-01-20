@@ -1,6 +1,5 @@
 class PagesController < ApplicationController
   def home
-	@title = "home me tu main hain"
   end
 
   def contact
